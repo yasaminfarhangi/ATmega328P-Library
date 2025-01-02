@@ -30,4 +30,4 @@ A comprehensive library for the ATmega328 microcontroller, designed to simplify 
 
 ### Clone the Repository
 ```bash
-git clone [https://github.com/your-username/atmega328-library.g](https://github.com/yasaminfarhangi/ATmega328P-Library]
+git clone [https://github.com/yasaminfarhangi/ATmega328P-Library]
